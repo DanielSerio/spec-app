@@ -1,0 +1,11 @@
+{
+  "name": "spec-app-types",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "log": "./log",
+    "spec": "./spec",
+    "user": "./user"
+  }
+}

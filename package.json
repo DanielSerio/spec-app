@@ -1,0 +1,6 @@
+{
+  "name": "spec-app",
+  "version": "1.0.0",
+  "main": "./server/dist/bin/www",
+  "license": "MIT"
+}
