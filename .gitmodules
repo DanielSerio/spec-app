@@ -1,0 +1,6 @@
+[submodule "spec-app-client"]
+	path = spec-app-client
+	url = https://github.com/DanielSerio/spec-app-client.git
+[submodule "spec-app-server"]
+	path = spec-app-server
+	url = https://github.com/DanielSerio/spec-app-server.git
